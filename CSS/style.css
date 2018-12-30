@@ -328,7 +328,7 @@ nav {
     /* main screen */
 
     .main-page {
-        background-image: url(CSS/main-page.png);
+        background-image: url(main-page.png);
         min-width: 1366px;
     }
     .main-page h2 {
